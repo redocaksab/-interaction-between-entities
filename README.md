@@ -1,4 +1,4 @@
-Project that demonstrates interaction with entities
+Project that demonstrates interaction between entities
 
 Description 
 
